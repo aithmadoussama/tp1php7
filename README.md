@@ -61,10 +61,6 @@ project/
 - Création de classes et fonctions utilitaires.
 
 - Typage strict (declare(strict_types=1)).
-## 🧑‍💻 Author
 
-- 👤 Agouram Hassan
-- 🏫 Programmation orientée objet : PHP
-- 🎓 Instructor	Mr.LACHGAR
-- 📅 13 février 2026
+
 
